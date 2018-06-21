@@ -1,0 +1,12 @@
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=WebApplicationNew
+--content-root=C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew
+--file=C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\Pages\About.cshtml
+--file=C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\Pages\Contact.cshtml
+--file=C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\Pages\Error.cshtml
+--file=C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\Pages\Index.cshtml
+--file=C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\Pages\_Layout.cshtml
+--file=C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\Pages\_ViewImports.cshtml
+--file=C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\Pages\_ViewStart.cshtml

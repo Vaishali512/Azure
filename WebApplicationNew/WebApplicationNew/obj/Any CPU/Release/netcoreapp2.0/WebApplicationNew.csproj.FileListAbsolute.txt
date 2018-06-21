@@ -1,0 +1,11 @@
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\bin\Any CPU\Release\netcoreapp2.0\WebApplicationNew.deps.json
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\bin\Any CPU\Release\netcoreapp2.0\WebApplicationNew.runtimeconfig.json
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\bin\Any CPU\Release\netcoreapp2.0\WebApplicationNew.runtimeconfig.dev.json
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\bin\Any CPU\Release\netcoreapp2.0\WebApplicationNew.dll
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\bin\Any CPU\Release\netcoreapp2.0\WebApplicationNew.pdb
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\obj\Any CPU\Release\netcoreapp2.0\WebApplicationNew.csprojResolveAssemblyReference.cache
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\obj\Any CPU\Release\netcoreapp2.0\WebApplicationNew.csproj.CoreCompileInputs.cache
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\obj\Any CPU\Release\netcoreapp2.0\WebApplicationNew.AssemblyInfoInputs.cache
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\obj\Any CPU\Release\netcoreapp2.0\WebApplicationNew.AssemblyInfo.cs
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\obj\Any CPU\Release\netcoreapp2.0\WebApplicationNew.dll
+C:\Users\Vaishali_Sharma\source\repos\WebApplicationNew\WebApplicationNew\obj\Any CPU\Release\netcoreapp2.0\WebApplicationNew.pdb
